@@ -8,7 +8,7 @@ require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/gin-contrib/static v1.1.3
 	github.com/gin-gonic/gin v1.10.0
-	github.com/go-git/go-git/v5 v5.13.2
+	github.com/go-git/go-git/v5 v5.12.0
 	github.com/google/go-github/v49 v49.1.0
 	github.com/otiai10/copy v1.14.1
 	github.com/wailsapp/wails/v2 v2.9.2
