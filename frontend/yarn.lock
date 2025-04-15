@@ -457,23 +457,18 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte-awesome-color-picker@^4.0.0-beta.1:
-  version "4.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/svelte-awesome-color-picker/-/svelte-awesome-color-picker-4.0.0-beta.2.tgz#d4db1a61111cc416532e0c18e18eb83373f37036"
-  integrity sha512-MEr3ig3OTi0Dc5msQJmhvjzgHrf0kh3WDwhh9HHgovrPViMFUdKAftrGufA0sdVJamAIdhOiLE0lpx9i/s7MVg==
+svelte-awesome-color-picker@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/svelte-awesome-color-picker/-/svelte-awesome-color-picker-4.0.1.tgz#59c83234694280c68da0fecf40339d397a829eeb"
+  integrity sha512-n9Lcvi8cYCl5RbT1YzjZAL1AeGXZcEynul25xy1tektkII7xW56en5iaqJFKZHmwRLmZ9Wh4CCEqYIXDtq9sDQ==
   dependencies:
     colord "^2.9.3"
-    svelte-awesome-color-picker "link:../../../../../../../../Caches/Yarn/v6/npm-svelte-awesome-color-picker-4.0.0-beta.2-d4db1a61111cc416532e0c18e18eb83373f37036-integrity/node_modules/svelte-awesome-color-picker"
-    svelte-awesome-slider "2.0.0-beta.2"
+    svelte-awesome-slider "2.0.0"
 
-"svelte-awesome-color-picker@link:":
-  version "0.0.0"
-  uid ""
-
-svelte-awesome-slider@2.0.0-beta.2:
-  version "2.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/svelte-awesome-slider/-/svelte-awesome-slider-2.0.0-beta.2.tgz#7d18373f6a3ef3ef1f53999f43dfd52934093eff"
-  integrity sha512-fnka7MnrQkv5Rko9oE4o+e2t1VHDSkEk7L6sbcbK7PH1sIPreMVg3HXhVdD4lE1aaFhraAmKbDx/SHDqsMbtuA==
+svelte-awesome-slider@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/svelte-awesome-slider/-/svelte-awesome-slider-2.0.0.tgz#02ced813c7ec42c9a882394473a9f7570951af5b"
+  integrity sha512-YBkOdYm1Feaqsn2JkJBRs+Kc/X3Qy/3GuVmI7GmoYDjBaHkjx9uH4khTuED22z57Hg3gGWeDhp/clIjWDdLNaw==
 
 svelte-icons@^2.1.0:
   version "2.1.0"
